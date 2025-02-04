@@ -1,0 +1,21 @@
+{
+  "name": "workout-tracker-tui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AdamDavisDeveloper/workout-tracker-tui.git",
+  "author": "Adam Davis <adam@chirohd.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "chalk": "^5.4.1"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "@types/blessed": "^0.1.25",
+    "@types/node": "^22.13.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
