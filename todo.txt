@@ -42,13 +42,13 @@ workout-tracker/
 [x] Try again to get the personal SSH working on work machine for Github access
 [x] Now try to make it verified (try 4)
 [x] Add Ink so I can write this in a React way
-[-] Learn how to build and start the project
+[x] Learn how to build and start the project
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 2 - Create a basic data manager for loading/saving JSON
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[-] Get loading and saving helper functions written out
+[x] Get loading and saving helper functions written out
 
 
 
