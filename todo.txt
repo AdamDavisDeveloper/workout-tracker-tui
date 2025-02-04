@@ -39,6 +39,7 @@ workout-tracker/
 [x] Get all this committed to github with a PR
 [x] Move this list over to the actual project and commit to main
 [x] Make sure your personal git profile is setup with ssh on machine
+[x] Try again to get the personal SSH working on work machine for Github access
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
