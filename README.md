@@ -1,2 +1,28 @@
-# workout-tracker-tui
-A terminal application which let's you track your weight lifting progress in the most nerdy way possible.
+# Workout Tracker TUI (get big, stay nerdy)
+
+## Install
+
+```bash
+$ npm install --global workout-tracker-tui
+```
+
+## CLI
+
+```
+$ workout-tracker-tui --help
+
+  Usage
+    $ workout-tracker-tui
+
+  Options
+    --name  Your name
+
+  Examples
+    $ workout-tracker-tui --name=Jane
+    Hello, Jane
+```
+
+## Running
+```
+npm run start -- --optionalFlag
+```

@@ -30,10 +30,10 @@
 workout-tracker/
   ├─ package.json
   ├─ tsconfig.json
-  ├─ data.json             
+  ├─ data.json
   └─ src/
-     ├─ dataManager.ts     
-     └─ index.ts           
+     ├─ dataManager.ts
+     └─ index.ts
 ----------------------------
 
 [x] Get all this committed to github with a PR
@@ -41,11 +41,14 @@ workout-tracker/
 [x] Make sure your personal git profile is setup with ssh on machine
 [x] Try again to get the personal SSH working on work machine for Github access
 [x] Now try to make it verified (try 4)
+[x] Add Ink so I can write this in a React way
+[x] Learn how to build and start the project
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 2 - Create a basic data manager for loading/saving JSON
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[x] Get loading and saving helper functions written out
 
 
 
