@@ -1,0 +1,53 @@
+----------------------------
+** Workout Tracker TUI App **
+----------------------------
+
+[>] === To Do
+[-] === In Progress
+[x] === Done
+[!] === Urgent / Issue
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+0 - Design and User Experience
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[>] Create a "hello world" feature list
+[>] Make working design of the main dashboard
+[>] Decide on what a brand new user will see/do to get started
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1 - Setting up the dev evironment
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[x] Create a Git repo
+[x] Initialize a new project with Yarn
+[x] Decide on which libraries you want to use (Chalk/Blessed?)
+[x] Initialize TypeScript
+[x] Create a "start" script for running TS compiler
+[x] Get a basic file structure made
+
+----------------------------
+workout-tracker/
+  ├─ package.json
+  ├─ tsconfig.json
+  ├─ data.json             
+  └─ src/
+     ├─ dataManager.ts     
+     └─ index.ts           
+----------------------------
+
+[x] Get all this committed to github with a PR
+[x] Move this list over to the actual project and commit to main
+[x] Make sure your personal git profile is setup with ssh on machine
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2 - Create a basic data manager for loading/saving JSON
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+3 - Create the beginning of the Main TUI (index.ts)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
