@@ -1,4 +1,4 @@
-# Workout Tracker TUI (get big, stay nerdy)
+# Workout Tracker TUI
 
 ## Install
 
